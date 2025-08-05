@@ -113,5 +113,5 @@ It is designed to be simple to use, portable, and extendable for future needs.
 
 ## Authors & License
 
-- Written by: [your name/team/company here]
-- License: [choose appropriate license, e.g., MIT]
+- Written by: [BRD\TLG\Jablotron.cz]
+- License: None.
