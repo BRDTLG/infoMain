@@ -215,7 +215,7 @@ current_data = {
 
 # ---- GUI SETUP ----
 root = tk.Tk()
-root.title("F-Link TXT Analyzer (Tkinter)")
+root.title("F-Link TXT Analyzer TLG")
 root.geometry("750x430")
 
 # --- Top controls: Load, Clear, Export, API key ---
